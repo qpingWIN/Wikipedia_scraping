@@ -50,8 +50,4 @@ Example: Export path
 
 The notebook writes to wikipedia_in_the_news.csv:
 
-
-Credits
-
-- Wikipedia contributors for the underlying content.
 - Libraries: **requests**, **BeautifulSoup (bs4)**, **pandas**.
